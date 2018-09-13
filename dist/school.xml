@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2018-09-12T09:44:03Z"/>
+
+  <node id="358770489" lat="37.5793804" lon="-122.3563599" version="1" timestamp="2009-03-11T05:37:09Z" changeset="781903" uid="4732" user="iandees">
+    <tag k="amenity" v="school"/>
+    <tag k="ele" v="9"/>
+    <tag k="gnis:county_id" v="081"/>
+    <tag k="gnis:created" v="06/14/2000"/>
+    <tag k="gnis:feature_id" v="228403"/>
+    <tag k="gnis:state_id" v="06"/>
+    <tag k="name" v="McKinley Elementary School"/>
+  </node>
+  <node id="634387868" lat="37.5815147" lon="-122.3498706" version="1" timestamp="2010-02-09T17:05:39Z" changeset="3833852" uid="28775" user="StellanL">
+    <tag k="addr:housenumber" v="525"/>
+    <tag k="addr:street" v="California Ave"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Burlingame Montessori"/>
+    <tag k="website" v="burlingamemontessoriinc.org"/>
+  </node>
+
+</osm>
